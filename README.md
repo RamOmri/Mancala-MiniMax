@@ -1,4 +1,6 @@
 # Mancala-MiniMax
+
+A program I made for a course in university
 Implementation of the minimax algorithm to win a simulation of the game Mancala
 
 To run the program call  ```javac Mancala.java```
